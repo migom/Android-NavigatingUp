@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigatingUp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_call_child">Child</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_child">ChildActivity</string>
+</resources>
